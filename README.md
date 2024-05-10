@@ -28,3 +28,6 @@ on windows:
 TBD
 
 ```
+
+- https://www.reddit.com/r/golang/comments/4b5wx5/template_inheritance/
+- https://www.josephspurrier.com/how-to-use-template-blocks-in-go-1-6
